@@ -21,6 +21,6 @@ body: {
  "password": "password"
 }
 
-## User Details: /user/user-details
+## User Details: /user/user-details   ([Get User Details](https://authentication-api-1.onrender.com/user/user-details))
 -> Allows user can retrieve all users details, returns the list of availabe users.
 
