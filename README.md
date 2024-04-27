@@ -1,6 +1,8 @@
 # Authentication-API
  Authentication apis using express and MongoDB as databases (login, signup, user details)
 
+ Click Here to Access the Assessment ([Live Link](https://authentication-api-1.onrender.com/))
+
  
 ## Login: /user/login 
 -> Allows users to login using email and the password.
